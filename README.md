@@ -1,4 +1,4 @@
-# random-quote-generator
+# Random-quote-generator
 <li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
