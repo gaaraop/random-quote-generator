@@ -8,4 +8,4 @@
 <li>script.js contains two arrays, one stores quotes and the other stores color schemes</li>
 <li>Get random number, but not same as before</li>
 <li>Use random number to get new quote from arrays</li>
-<li>Display new quote and update colors on 'Random Quote' button click</li>
+<li>Display new quote and update colors on 'New quote' button click</li>
